@@ -14,7 +14,7 @@ This repository contains Google Apps Script code for integrating Stripe with Goo
 1. Clone the repository:
    ```sh
    git clone https://github.com/Agdetaklumba/stripegoogleappscrip.git
-   cd stripe-google-sheets
+   cd stripegoogleappscrtip
 2.	Set up your Google Apps Script project:
 	•	Open Google Sheets and create a new Google Apps Script project.
 	•	Copy the contents of the src/ files into your script editor.
